@@ -6,8 +6,6 @@ description: "Full text of a correspondence provided for a reading assignment: \
 file: /courses/24-06j-bioethics-spring-2009/2fd93e4235c6563d6faeef3593571b8c_MIT24_06Js09_read01_Euthanasia.pdf
 file_size: 863256
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
